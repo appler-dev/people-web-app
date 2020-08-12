@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'http://132.145.248.46/'
+export const API_BASE_URL = 'http://193.122.63.127/'
 
 export const DEFAULT_PAGE_SIZE = 10;
 
